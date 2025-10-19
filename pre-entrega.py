@@ -20,7 +20,7 @@ Original file is located at
 # Sugerencia: utilizar pd.read_csv() para cargar los archivos CSV.
 # Recordá verificar la ruta correcta y revisar las primeras filas con .head().
 
-
+ 
 import pandas as pd
 import numpy as np
 import os
